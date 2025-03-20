@@ -48,6 +48,9 @@
     <Compile Include="FirstLesson\FactoryMathodDocument.cs" />
     <Compile Include="FirstLesson\Program.cs" />
     <Compile Include="FirstLesson\PrototypeShape.cs" />
+    <Compile Include="FirstLesson\SecondLesson\PatternCommand.cs" />
+    <Compile Include="FirstLesson\SecondLesson\PatternObserver.cs" />
+    <Compile Include="FirstLesson\SecondLesson\PatternStrategy.cs" />
     <Compile Include="FirstLesson\SingletonLogger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
